@@ -1,4 +1,4 @@
 ## mcj-designpatterns
 Sample for Java design patterns.
 ### Design Patterns.
-- Singleton pattern
+- 單例模式(Singleton pattern)
